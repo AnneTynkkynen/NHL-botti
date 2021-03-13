@@ -1,0 +1,2 @@
+[0402/122820.448:ERROR:process_reader_win.cc(123)] NtOpenThread: {Käyttö estetty} Prosessi pyysi objektin käyttöä, mutta käyttöoikeuksia ei ole myönnetty. (0xc0000022)
+[0402/122820.449:ERROR:exception_snapshot_win.cc(98)] thread ID 19996 not found in process

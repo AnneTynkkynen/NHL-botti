@@ -1,0 +1,36 @@
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\NHLbotti.exe.config
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\NHLbotti.exe
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\NHLbotti.pdb
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\WebDriver.dll
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\WebDriver.Support.dll
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\WebDriver.xml
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\WebDriver.Support.xml
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\obj\Debug\NHLbotti.csprojAssemblyReference.cache
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\obj\Debug\NHLbotti.csproj.CoreCompileInputs.cache
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\obj\Debug\NHLbotti.csproj.CopyComplete
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\obj\Debug\NHLbotti.exe
+C:\Users\ATJ\Desktop\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\obj\Debug\NHLbotti.pdb
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\NHLbotti.exe.config
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\NHLbotti.exe
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\NHLbotti.pdb
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\WebDriver.dll
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\WebDriver.Support.dll
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\WebDriver.xml
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\bin\Debug\WebDriver.Support.xml
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\obj\Debug\NHLbotti.csprojAssemblyReference.cache
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\obj\Debug\NHLbotti.csproj.CoreCompileInputs.cache
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\obj\Debug\NHLbotti.csproj.CopyComplete
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\obj\Debug\NHLbotti.exe
+C:\Users\ATJ\Documents\Koulu\IT-ammattilaiseksi 4\Ohjelmistorobotiikka\NHL\NHLbotti\NHLbotti\obj\Debug\NHLbotti.pdb
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\obj\Debug\NHLbotti.csprojAssemblyReference.cache
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\obj\Debug\NHLbotti.csproj.CoreCompileInputs.cache
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\obj\Debug\NHLbotti.exe
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\obj\Debug\NHLbotti.pdb
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\bin\Debug\NHLbotti.exe.config
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\bin\Debug\NHLbotti.exe
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\bin\Debug\NHLbotti.pdb
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\bin\Debug\WebDriver.dll
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\bin\Debug\WebDriver.Support.dll
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\bin\Debug\WebDriver.xml
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\bin\Debug\WebDriver.Support.xml
+C:\Users\ATJ\Documents\Projektit\Projektit\NHL-botti\NHLbotti\obj\Debug\NHLbotti.csproj.CopyComplete
