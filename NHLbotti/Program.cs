@@ -11,6 +11,7 @@ using System.Speech.Synthesis;
 namespace NHLbotti
 
 // A bot to readout most recent NHL scores
+// reads static id (18.3.2021 scores at the moment), still in development to find dynamic id element
 {
     class Program
     {
@@ -19,8 +20,36 @@ namespace NHLbotti
             IWebDriver driver = new ChromeDriver(); //alustetaan uusi driver
             driver.Manage().Window.Maximize();
             driver.Url = "https://www.nhl.com/scores/";
-            string text = driver.FindElement(By.XPath("//div[2]/section[1]/section[1]/span")).GetAttribute("@id");
-            Console.WriteLine(text);
+            int game = 0; //alustetaan laskuri
+
+            try
+            {
+                for (int i = 2020020463; ; i++) //annetaan arvoksi ensimmäisen pelin id jota kasvatetaan yhdellä
+                {
+                    string hometeam = driver.FindElement(By.XPath("//*[@id='" + i + "']/div[2]/section[1]/section[1]/div/div/span[1]")).Text; //kotijoukkue
+                    //Console.WriteLine(hometeam);
+                    string visitors = driver.FindElement(By.XPath("//*[@id='" + i + "']/div[2]/section[1]/section[3]/div/div/span[1]")).Text; //vierasjoukkue
+                    //Console.WriteLine(visitors);
+                    string hometeamgoals = driver.FindElement(By.XPath("//*[@id='" + i + "']/div[2]/section[1]/section[1]/span")).Text; //kotitulos
+                    //Console.WriteLine(hometeamgoals);
+                    string visitorsgoals = driver.FindElement(By.XPath("//*[@id='" + i + "']/div[2]/section[1]/section[3]/span")).Text; //vierastulos
+                    //Console.WriteLine(visitorsgoals);
+                    game = game + 1; //ensimmäinen peli saa numeron ja kasvaa joka kierroksella yhdellä
+
+
+                    SpeechSynthesizer voice = new SpeechSynthesizer(); //alustetaan uusi ääni
+                    voice.SelectVoiceByHints(VoiceGender.Female); //valitaan naisääni
+                    voice.Speak("Game" + game + hometeam + "against" + visitors + "Goals" + hometeamgoals + " " + visitorsgoals);
+                }
+            }
+            catch (Exception e) //kunnes pelien id:t loppuvat
+            {
+                SpeechSynthesizer voice = new SpeechSynthesizer(); //alustetaan ääni
+                voice.SelectVoiceByHints(VoiceGender.Female); //valitaan naisääni
+                voice.Speak("All scores are read");
+            }
+
+            /*
             IList<IWebElement> context = driver.FindElements(By.XPath("//*[contains(@class, '" + "nhl-scores__list-item--game" + "')]"));
             int index = 2; //alustetaan aloitusindeksi tuloslohkojen lukemiselle
 
@@ -53,7 +82,7 @@ namespace NHLbotti
                 voice.SelectVoiceByHints(VoiceGender.Female); //valitaan naisääni
                 voice.Speak("All scores are read");
                 driver.Close();
-            }
+            } */
         }
     }
 }
